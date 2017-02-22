@@ -1,0 +1,66 @@
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+
+.name {
+  background-color: #212F3C;
+  font-size: 60px;
+  color:white;
+  size: 600px;
+}
+
+
+.headline {
+      color: #DC7633;
+	  font-size: 100px;
+	  line-height: 95px;
+	  font-family: Questrial;
+	  max-width:900px;
+	  margin: 30px auto;
+}
+
+
+
+.container {
+	background-color:#f2f7f4;
+	font-size:22px;
+	line-height: 32px;
+}
+
+
+
+.body{
+	font-size:22px;
+	font-family: Georgia;
+	margin: 0 auto;
+	max-width:900px;
+	margin: 30px auto;
+}
+
+
+
+.body1 {
+    font-size:22px;
+	font-family: Georgia;
+	margin: 0 auto;
+	max-width:900px;
+	margin: 30px auto;
+}
+
+
+.body1:first-letter {
+	font-size:40px;
+}
+
+img {
+	width:110%;
+	margin-left:calc(50% - 50vw);
+	margin-right:calc(50% - 50vw);
+}
+
+.youtube {
+	display: block;
+	margin: 0 auto;
+}
